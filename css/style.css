@@ -46,6 +46,12 @@ section h1, footer h1, nav a
     text-transform: uppercase;
 }
 
+.chincheta{
+    font-family: Dayrom, serif;
+    font-weight: normal;
+    text-transform: uppercase;
+}
+
 /* Header */
 
 header
